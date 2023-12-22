@@ -22,19 +22,19 @@ python blackjack_game.py
 
 3. Follow On-screen Instructions:
 
--Receive initial cards and choose to take more cards or stick with your current hand.
+* Receive initial cards and choose to take more cards or stick with your current hand.
 
--The computer dealer will follow a set of rules to play its hand.
+* The computer dealer will follow a set of rules to play its hand.
 
--The winner is determined based on the total value of the cards and specific rules.
+* The winner is determined based on the total value of the cards and specific rules.
 
 4. Enjoy the Game!
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow the standard GitHub workflow:
 
--Fork the repository.
--Create a new branch for your feature or bug fix.
--Make your changes and commit them with descriptive messages.
--Push your changes to your fork.
--Submit a pull request to the main repository.
+* Fork the repository.
+* Create a new branch for your feature or bug fix.
+* Make your changes and commit them with descriptive messages.
+* Push your changes to your fork.
+* Submit a pull request to the main repository.
